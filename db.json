@@ -1,6 +1,11 @@
 {
-"email": "ethanw234@gmail.com",
-"date": "5/11/2024",
-"rent": 750,
-"bills": 200,
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
