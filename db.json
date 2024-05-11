@@ -1,4 +1,9 @@
 {
-  "id": 1,
-  "title": "hello"
+  "email": "ethanw234@gmail.com",
+  "date": "5/11/2024",
+  "rent": 700,
+  "bills": 150,
+  "utilities": 125,
+  "personalSpending": 75,
+  "groceries": 100
 }
